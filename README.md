@@ -62,14 +62,6 @@
 
 ---
 
-## 💻 LeetCode
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/hariskhan343556?theme=dark&font=baloo&ext=heatmap" />
-
-</p>
-
 ---
 
 ## 🚀 Featured Projects
