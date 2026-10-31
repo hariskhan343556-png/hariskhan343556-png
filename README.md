@@ -69,6 +69,16 @@ images never show on profile
 
 ## 🚀 Featured Projects
 
+
+### 🧠 NeuroNova AI – Brain Tumor Detection & Analysis System
+
+An AI-powered medical imaging project designed for **brain tumor detection, MRI image analysis, and tumor segmentation** using deep learning.
+
+**Technologies:** Python • Deep Learning • CNN • Medical Imaging • JavaScript • HTML • CSS
+
+🔗 [View Project](https://github.com/hariskhan343556-png/NeuroNova-AI)
+
+
 ### 🔐 Network Security Monitoring & Intrusion Detection System (IDS)
 
 A comprehensive cybersecurity project designed for **network monitoring, threat detection, and intrusion detection**.
